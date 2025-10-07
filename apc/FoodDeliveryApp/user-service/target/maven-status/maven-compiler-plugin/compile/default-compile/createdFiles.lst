@@ -1,0 +1,4 @@
+com\fooddeliveryapp\userservice\service\UserService.class
+com\fooddeliveryapp\userservice\UserServiceApplication.class
+com\fooddeliveryapp\userservice\model\User.class
+com\fooddeliveryapp\userservice\repository\UserRepository.class

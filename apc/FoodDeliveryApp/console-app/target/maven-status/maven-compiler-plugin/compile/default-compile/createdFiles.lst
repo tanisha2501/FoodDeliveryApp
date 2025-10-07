@@ -1,0 +1,13 @@
+com\fooddeliveryapp\consoleapp\model\MenuItem.class
+com\fooddeliveryapp\consoleapp\service\RestaurantService.class
+com\fooddeliveryapp\consoleapp\repository\OrdersRepository.class
+com\fooddeliveryapp\consoleapp\service\MenuItemService.class
+com\fooddeliveryapp\consoleapp\repository\UserRepository.class
+com\fooddeliveryapp\consoleapp\model\Restaurant.class
+com\fooddeliveryapp\consoleapp\repository\RestaurantRepository.class
+com\fooddeliveryapp\consoleapp\service\OrdersService.class
+com\fooddeliveryapp\consoleapp\UnifiedConsoleApp.class
+com\fooddeliveryapp\consoleapp\model\Orders.class
+com\fooddeliveryapp\consoleapp\model\User.class
+com\fooddeliveryapp\consoleapp\repository\MenuItemRepository.class
+com\fooddeliveryapp\consoleapp\service\UserService.class

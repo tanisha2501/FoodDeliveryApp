@@ -1,0 +1,24 @@
+<hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.connection.driver.class">com.mysql.cj.jdbc.Driver</property>
+    <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/fooddeliveryapp</property>
+    <property name="hibernate.connection.username">root</property>
+    <property name="hibernate.connection.password">kanumanu@2604</property>
+    <property name="hibernate.show_sql">false</property>
+    <property name="hibernate.format_sql">false</property>
+
+    <!-- JDBC connection pool (use built-in) -->
+    <property name="connection.pool_size">1</property>
+    <!-- SQL dialect -->
+    <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+    <!-- Show SQL -->
+    <property name="show_sql">false</property>
+    <!-- Automatically create/drop tables -->
+    <property name="hbm2ddl.auto">update</property>
+    <mapping class="com.fooddeliveryapp.model.User" />
+    <mapping class="com.fooddeliveryapp.model.Restaurant" />
+    <mapping class="com.fooddeliveryapp.model.MenuItem" />
+    <mapping class="com.fooddeliveryapp.model.Orders" />
+
+  </session-factory>
+</hibernate-configuration>

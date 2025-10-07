@@ -1,0 +1,15 @@
+com\fooddeliveryapp\dao\OrdersDAO.class
+com\fooddeliveryapp\service\OrdersService.class
+com\fooddeliveryapp\dao\RestaurantDAO.class
+com\fooddeliveryapp\service\MenuItemService.class
+com\fooddeliveryapp\dao\MenuItemDAO.class
+com\fooddeliveryapp\service\RestaurantService.class
+com\fooddeliveryapp\service\UserService.class
+com\fooddeliveryapp\model\Orders.class
+com\fooddeliveryapp\model\MenuItem.class
+com\fooddeliveryapp\dao\UserDAO.class
+com\fooddeliveryapp\config\AppConfig.class
+com\fooddeliveryapp\model\Restaurant.class
+com\fooddeliveryapp\App.class
+com\fooddeliveryapp\FoodDeliveryApplication.class
+com\fooddeliveryapp\model\User.class
