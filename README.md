@@ -27,10 +27,11 @@ Built using **Java**, **Spring Boot**, **MySQL**, and **Maven**.
 ---
 
 ## 🛠️ Technologies Used
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java, Spring Boot  
-- **Database:** MySQL  
-- **Build Tool:** Maven  
+- **Java** 17
+- **JDBC** (Database connectivity)
+- **MySQL** (Database)
+- **Maven** (Build and dependency management)
+- **Console-based interface** (CLI)
 
 ---
 
