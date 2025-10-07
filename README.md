@@ -73,6 +73,9 @@ CREATE TABLE orders (
     FOREIGN KEY (user_id) REFERENCES user(id)
 );
 
+---
+
+## Installation and Setup
 
 ## ⚙️ How to Run the Project
 1. Clone this repository:
